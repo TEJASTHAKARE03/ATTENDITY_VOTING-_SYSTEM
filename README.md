@@ -1,2 +1,2 @@
-# ATTENDITY_VOTING _SYSTEM
- FACE DETCTION BASED VOTING AND ATTENDANCE MANAGER
+# Smart-Election-System
+This project leverages the OpenCV library and Python to create a secure and efficient voting system. The system allows users to register their faces, and during the voting process, it automatically recognizes registered faces to authorize voting. This facial recognition feature ensures that only registered users can cast their votes, enhancing the security and integrity of the voting process.
